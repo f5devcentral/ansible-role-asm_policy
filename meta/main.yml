@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: ansible-role-asm_policy
+  author: Wojciech Wypior
+  description: Allows creation, modification, import/export and management of BIG-IP ASM policies
+  company: F5 Networks
+  license: Apache
+  min_ansible_version: 2.7
+  galaxy_tags:
+    - f5
+    - security
+    - bigip
+    - asm

@@ -1,0 +1,7 @@
+.idea
+**.iml
+*.retry
+*/__pycache__
+*.pyc
+**/pytestdebug.log
+ok.py
